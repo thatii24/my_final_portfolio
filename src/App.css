@@ -35,6 +35,7 @@
 .nav-menu {
     word-break: break-word;
     position: absolute;
+    z-index: 5;
     display: flex;
     align-content: stretch;
     font-family: 'Koulen', sans-serif;
